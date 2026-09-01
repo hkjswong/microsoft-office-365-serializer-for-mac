@@ -1,1 +1,5 @@
+#前言：#
 
+隨著Office 2016/2019將停止對macOS的支持，我們不得不使用新款的Office 365安裝在MacBook上。之前我找到了很多的無法激活Office 365的問題：是macOS系統過高還是找的vl_serializer.pkg文件不對呢？ 直到最近我才找到了核心問題。
+
+解決方案：安裝完vl_serializer.pkg後打開App Cleaner & Uninstall軟件，選擇啟動程序，啟用com.microsoft.office.licensingV2.helper這項服務。 如果啟動後還是無法激活Office365的話可以再次安裝一下vl_serializer.pkg 即可完成激活
