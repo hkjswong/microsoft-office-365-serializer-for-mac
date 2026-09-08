@@ -24,8 +24,11 @@
 
    `com.microsoft.office.licensingV2.helper`
 
-3. 將這項服務設定為 **啟用**。
-4. 啟用後，重新打開 Office 365，檢查是否已經正常啟用。
+   ![image]([https://github.com/hkjswong/shadowsocksR-setup/blob/master/%E5%BE%AE%E4%BF%A1%E5%85%AC%E7%9C%BE%E8%99%9F.jpg](https://github.com/hkjswong/microsoft-office-365-serializer-for-mac/blob/main/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202026-09-08%20%E4%B8%8B%E5%8D%882.05.00.png))
+
+
+4. 將這項服務設定為 **啟用**。
+5. 啟用後，重新打開 Office 365，檢查是否已經正常啟用。
 
 如果完成以上操作後，Office 365 仍然無法啟用，可以再次安裝一次 `vl_serializer.pkg`，然後重新啟動 Office 應用程式。
 
