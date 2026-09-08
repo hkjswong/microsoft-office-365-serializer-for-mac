@@ -24,7 +24,7 @@
 
    `com.microsoft.office.licensingV2.helper`
 
-   ![image]([https://github.com/hkjswong/microsoft-office-365-serializer-for-mac/blob/main/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202026-09-08%20%E4%B8%8B%E5%8D%882.05.00.png])
+![licensing](https://github.com/hkjswong/microsoft-office-365-serializer-for-mac/blob/main/%E8%9E%A2%E5%B9%95%E6%88%AA%E5%9C%96%202026-09-08%20%E4%B8%8B%E5%8D%882.05.00.png)
 
 
 4. 將這項服務設定為 **啟用**。
