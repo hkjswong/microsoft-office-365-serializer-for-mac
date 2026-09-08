@@ -36,4 +36,3 @@
 
 > **重點：**  
 > 問題未必出在 macOS 系統版本或 `vl_serializer.pkg` 本身，而有可能是 `com.microsoft.office.licensingV2.helper` 這項 Office Licensing Helper 服務被停用了。
-```
